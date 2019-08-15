@@ -21,7 +21,7 @@ Algorithm contains the basic computation flow of the improved random forest base
 >>>SZ18769
 >>>SZ18770
 
->>Original positive sample
+>>[Original positive sample](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample)
 >>>SZ18085
 >>>SZ18094
 >>>SZ18185
@@ -33,11 +33,11 @@ Algorithm contains the basic computation flow of the improved random forest base
 >>>SZ18402
 >>>SZ18435
 
->>Processed training material
+>>[Processed training material](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Processed%20training%20material)
 >>>epithelial cells
 >>>>cancerous epithelial cells
 
 >>>>normal epithelial cells
 >>>lymphocyte cells
 
->>Schema of cell classification
+>>[Schema of cell classification](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Schema%20of%20cell%20classification)
