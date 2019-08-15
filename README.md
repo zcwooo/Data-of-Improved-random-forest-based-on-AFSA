@@ -23,16 +23,16 @@ Basic structure of data is showns as follows:
   　　[SZ18770](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20negative%20sample/SZ18770)<br>
 
 [Original positive sample](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample)
-  SZ18085
-  SZ18094
-  SZ18185
-  SZ18228
-  SZ18230
-  SZ18240
-  SZ18343
-  SZ18376
-  SZ18402
-  SZ18435
+  　　[SZ18085](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample/SZ18085)<br>
+  　　[SZ18094](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample/SZ18094)<br>
+  　　[SZ18185](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample/SZ18185)<br>
+  　　[SZ18228](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample/SZ18228)<br>
+  　　[SZ18230](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample/SZ18230)<br>
+  　　[SZ18240](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample/SZ18240)<br>
+  　　[SZ18343](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample/SZ18343)<br>
+  　　[SZ18376](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample/SZ18376)<br>
+  　　[SZ18402](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample/SZ18402)<br>
+ 　　 [SZ18435](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample/SZ18435)<br>
 
 [Processed training material](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Processed%20training%20material)
   epithelial cells
