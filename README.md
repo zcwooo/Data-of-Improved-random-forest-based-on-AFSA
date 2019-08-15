@@ -10,7 +10,9 @@ Algorithm contains the basic computation flow of the improved random forest base
 ----
 Basic structure of data is showns as follows:
 
+
   [1. Original negative sample](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20negative%20sample)<br>
+  
 [2. Original positive sample](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample)<br>
 [3. Processed training material](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Processed%20training%20material)<br>
 　[3.1 epithelial cells](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Processed%20training%20material/epithelial%20cells)<br>
