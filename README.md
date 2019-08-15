@@ -18,9 +18,7 @@ Basic structure of data is showns as follows:
 3.[ Processed training material](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Processed%20training%20material)<br>
 　3.1[ epithelial cells](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Processed%20training%20material/epithelial%20cells)<br>
 　　　3.1.1[ cancerous epithelial cells](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Processed%20training%20material/epithelial%20cells/cancerous%20epithelial%20cells)<br>
-　　　3.1.2[ normal epithelial cells](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Processed%20training%20material/epithelial%20cells/normal%20epithelial%20cells)<br>
-    
-    
+　　　3.1.2[ normal epithelial cells](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Processed%20training%20material/epithelial%20cells/normal%20epithelial%20cells)<br> 
 　3.2[ lymphocyte cells](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Processed%20training%20material/lymphocyte%20cells)<br>
  
 4.[ Schema of cell classification](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Schema%20of%20cell%20classification)
