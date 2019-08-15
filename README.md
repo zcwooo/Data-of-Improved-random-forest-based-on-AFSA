@@ -6,7 +6,7 @@ This repository contains all the algorithm and data used in our paper "A paramet
 ----
 Algorithm contains the basic computation flow of the improved random forest based on AFSA, you can recurrent the code via this flow, along with the folder stores a clear chart of the flow which will help you better understand our algorithm. Our initial code was writtrn in C++ concerning at the problem of efficiency, other codes based on different languages are being developed through this open source algorithm. We also welcome anyone who is interested in our algorithm to join us to develop related cell recognition algorithms.
 
-Relative data:
+[Relative data:](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data)
 ----
 >Basic structure of data is showns as follows:
 >>Original negative sample
