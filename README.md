@@ -8,18 +8,18 @@ Algorithm contains the basic computation flow of the improved random forest base
 
 [Relative data:](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data)
 ----
->Basic structure of data is showns as follows:
->>[Original negative sample](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20negative%20sample)
->>>SZ18761
->>>SZ18762
->>>SZ18763
->>>SZ18764
->>>SZ18765
->>>SZ18766
->>>SZ18767
->>>SZ18768
->>>SZ18769
->>>SZ18770
+Basic structure of data is showns as follows:
+  [Original negative sample](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20negative%20sample)
+  SZ18761
+  SZ18762
+  SZ18763
+  SZ18764
+  SZ18765
+  SZ18766
+  SZ18767
+  SZ18768
+  SZ18769
+  SZ18770
 
 >>[Original positive sample](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample)
 >>>SZ18085
