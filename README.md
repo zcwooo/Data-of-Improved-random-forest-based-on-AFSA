@@ -21,23 +21,22 @@ Basic structure of data is showns as follows:
   SZ18769
   SZ18770
 
->>[Original positive sample](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample)
->>>SZ18085
->>>SZ18094
->>>SZ18185
->>>SZ18228
->>>SZ18230
->>>SZ18240
->>>SZ18343
->>>SZ18376
->>>SZ18402
->>>SZ18435
+[Original positive sample](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20positive%20sample)
+  SZ18085
+  SZ18094
+  SZ18185
+  SZ18228
+  SZ18230
+  SZ18240
+  SZ18343
+  SZ18376
+  SZ18402
+  SZ18435
 
->>[Processed training material](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Processed%20training%20material)
->>>epithelial cells
->>>>cancerous epithelial cells
+[Processed training material](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Processed%20training%20material)
+  epithelial cells
+    cancerous epithelial cells
+    normal epithelial cells
+  lymphocyte cells
 
->>>>normal epithelial cells
->>>lymphocyte cells
-
->>[Schema of cell classification](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Schema%20of%20cell%20classification)
+[Schema of cell classification](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Schema%20of%20cell%20classification)
