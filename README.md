@@ -11,7 +11,7 @@ Algorithm contains the basic computation flow of the improved random forest base
 Basic structure of data is showns as follows:
 
   [Original negative sample](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Original%20negative%20sample)<br>
-     SZ18761<br>
+  　　SZ18761<br>
   SZ18762
   SZ18763
   SZ18764
