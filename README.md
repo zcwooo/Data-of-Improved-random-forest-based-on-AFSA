@@ -20,6 +20,7 @@ Basic structure of data is showns as follows:
 >>SZ18768
 >>SZ18769
 >>SZ18770
+
 >Original positive sample
 >>SZ18085
 >>SZ18094
@@ -31,9 +32,11 @@ Basic structure of data is showns as follows:
 >>SZ18376
 >>SZ18402
 >>SZ18435
+
 >Processed training material
 >>epithelial cells
 >>>cancerous epithelial cells
 >>>normal epithelial cells
 >>lymphocyte cells
+
 >Schema of cell classification
