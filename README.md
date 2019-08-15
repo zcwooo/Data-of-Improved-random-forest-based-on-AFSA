@@ -8,32 +8,32 @@ Algorithm contains the basic computation flow of the improved random forest base
 
 Relative data:
 ----
-Basic structure of data is showns as follows:
->Original negative sample
->>SZ18761
->>SZ18762
->>SZ18763
->>SZ18764
->>SZ18765
->>SZ18766
->>SZ18767
->>SZ18768
->>SZ18769
->>SZ18770
->Original positive sample
->>SZ18085
->>SZ18094
->>SZ18185
->>SZ18228
->>SZ18230
->>SZ18240
->>SZ18343
->>SZ18376
->>SZ18402
->>SZ18435
->Processed training material
->>epithelial cells
->>>cancerous epithelial cells
->>>normal epithelial cells
->>lymphocyte cells
->Schema of cell classification
+>Basic structure of data is showns as follows:
+>>Original negative sample
+>>>SZ18761
+>>>SZ18762
+>>>SZ18763
+>>>SZ18764
+>>>SZ18765
+>>>SZ18766
+>>>SZ18767
+>>>SZ18768
+>>>SZ18769
+>>>SZ18770
+>>Original positive sample
+>>>SZ18085
+>>>SZ18094
+>>>SZ18185
+>>>SZ18228
+>>>SZ18230
+>>>SZ18240
+>>>SZ18343
+>>>SZ18376
+>>>SZ18402
+>>>SZ18435
+>>Processed training material
+>>>epithelial cells
+>>>>cancerous epithelial cells
+>>>>normal epithelial cells
+>>>lymphocyte cells
+>>Schema of cell classification
