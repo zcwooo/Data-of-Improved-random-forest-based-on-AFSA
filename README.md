@@ -27,3 +27,5 @@ Algorithm contains the basic computation flow of the improved random forest base
 
 
 * [ Schema of cell classification](https://github.com/zcwooo/Data-of-Improved-random-forest-based-on-AFSA/tree/master/data%20and%20algorithm/relative%20data/Schema%20of%20cell%20classification) are 3 graphs of actual classification results. As you can see in the pictures, the cells inside the blue box are epithelial cells while the cells inside the green box are lymphocytes. We have effectively separated epithelial cells from lymphocytes.
+
+https://zenodo.org/badge/202300361.svg
